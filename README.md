@@ -1,4 +1,4 @@
-# 👋 Olá! Sou a Jéssica 
+# 👋 Olá! Sou a Jéssica 😁
 
 **Gestora em TI | Desenvolvedora Front-End | Embaixadora DIO**
 
