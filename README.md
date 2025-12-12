@@ -37,12 +37,13 @@ Profissional de TI em transição de carreira, combinando **8+ anos de experiên
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jeehnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeehnunes&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeehnunes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeehnunes&theme=dracula" alt="jeehnunes streak"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeehnunes&layout=compact&langs_count=7&theme=dracula)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jeehnunes&theme=dracula)
+
 </div>
 
 ---
